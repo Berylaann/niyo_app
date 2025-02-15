@@ -1,0 +1,24 @@
+#why-niyo {
+    padding: 50px 70px;
+    padding: 50px 120px;
+    background-color: rgb(244, 244, 244);
+  }
+  .why-text,
+  #why-niyo h2 span {
+    color: rgb(251, 175, 0);
+  }
+  .why-text {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: -20px;
+  }
+  #why-niyo h2 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .lists-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+  }
