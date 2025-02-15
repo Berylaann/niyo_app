@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/niyo_app/static/css/main.26197668.css",
+    "main.js": "/niyo_app/static/js/main.b9a6ead4.js",
+    "static/js/453.f0af8803.chunk.js": "/niyo_app/static/js/453.f0af8803.chunk.js",
+    "index.html": "/niyo_app/index.html",
+    "main.26197668.css.map": "/niyo_app/static/css/main.26197668.css.map",
+    "main.b9a6ead4.js.map": "/niyo_app/static/js/main.b9a6ead4.js.map",
+    "453.f0af8803.chunk.js.map": "/niyo_app/static/js/453.f0af8803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26197668.css",
+    "static/js/main.b9a6ead4.js"
+  ]
+}
